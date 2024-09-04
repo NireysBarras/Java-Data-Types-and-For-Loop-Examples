@@ -89,3 +89,45 @@ public class DataTypeExample {
         scanner.close();
     }
 }
+```
+
+### 2. Using For Loop to Iterate Over a Range
+
+This example demonstrates the use of a for loop in Java to iterate over a sequence of numbers.
+
+### Code Explanation
+The program:
+
+1. Initializes a variable max that defines the upper limit of the loop.
+2. Uses two different for loops to iterate from 0 to max - 1.
+3. Prints the value of i on each iteration.
+
+#### Code
+
+```java
+public class ForLoopExample {
+    public static void main(String[] args) {
+        int max = 10; // Define the maximum number of iterations
+
+        // First for loop - incrementing i by 1 until i is equal to max
+        for (int i = 0; i < max; i++) {
+            System.out.println("First loop iteration: " + i);
+        }
+
+        // Second for loop - similar structure but demonstrates redundancy
+        for (int i = 0; i < max; i++) {
+            System.out.println("Second loop iteration: " + i);
+        }
+    }
+}
+````
+
+### Repository and Documentation
+
+Both of these solutions have been uploaded to a GitHub repository. The repository includes:
+
+README.md file with detailed documentation explaining the purpose of each program and instructions for running the code.
+Properly commented code following best practices for clarity and understanding.
+You can find the repository here:
+
+GitHub Repository: Java Data Types and For Loop Examples
