@@ -130,4 +130,4 @@ README.md file with detailed documentation explaining the purpose of each progra
 Properly commented code following best practices for clarity and understanding.
 You can find the repository here:
 
-GitHub Repository: Java Data Types and For Loop Examples
+[GitHub Repository: Java Data Types and For Loop Examples]: (https://github.com/NireysBarras/Java-Data-Types-and-For-Loop-Examples/blob/main/README.md)
